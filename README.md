@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @navneetkj24
-- 👀 I’m interested in Java, HTML, CSS, JavaScript and PHP
+- 👀 I’m interested in Java, HTML, CSS, JavaScript, JavaFX and PHP
 - 🌱 I’m currently learning PHP
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
